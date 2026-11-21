@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Souvenir — Interactive Birthday Memory Book",
+  "description": "A luxury interactive birthday memory book, 3D celebration stage, and personalized keepsake experience in English and Arabic.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
